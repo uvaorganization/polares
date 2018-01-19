@@ -7,59 +7,9 @@ body {
   main {
     flex: 1 0 auto;
   }
-.IconSkills{
-    COLOR: #607d8b;
-}
 
-.itsMe{
-    font-family: 'Bungee', cursive; 
-    COLOR: #607d8b;
-}
-.Nome{
-    font-family: 'Bungee', cursive;
-    margin-top: auto;
-    margin-bottom: auto;
-}
-
-.textos{
-    margin-left: 5%;
-    margin-right: 5%;
-    text-align: justify; 
-}
-
-.DATA{
-    COLOR: #78909c;
-    font-size: 20px;
-}
-
-h3{
-    font-family: 'Raleway', sans-serif;
-    COLOR: #78909c;
-}
-
-.font{
-    font-family: 'Bungee', cursive;
-}
-
-
-h2, .Iconhobbies, h5{
-    font-family: 'Bungee', cursive; 
-    COLOR: #607d8b;
-}
-p{
-    font-family: 'Raleway', sans-serif;
-    font-size: 25px;
-}
-/* .item{
-    margin-left: 6%;
-    margin-right: 6%;
-} */
 .brand-logo{
     margin-left: 10%;
-}
-
-.hide-on-med-and-down{
-    margin-right: 10%;
 }
 
 .footer {
@@ -72,29 +22,7 @@ html {
     min-height: 100%;
 }
 
-.titulosub{
-    font-family: 'Raleway', sans-serif;
-    font-size: 25px;
-}
 
 
-.collection{
-    padding: 3%;
-}
 
-.iconeNav{
-    font-size:35px;
-}
 
- .subtitulo{
-    font-family: 'Bungee', cursive; 
-    COLOR: #78909c;
-/*     font-size: 20px;*/
-    margin-top: -2%; 
-} 
-
-.img{
-    height: 200px;
-    width: 200px;
-    margin: 3% auto 3% auto;
-}
