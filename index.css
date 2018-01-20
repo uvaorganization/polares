@@ -22,7 +22,12 @@ html {
     min-height: 100%;
 }
 
-
-
+p { text-align: center }
+img{
+    border-radius: 20px;
+    margin: 3% auto 3% auto;
+    height: 150px;
+    width : 150px;
+}
 
 
