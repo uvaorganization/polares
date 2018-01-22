@@ -1,0 +1,38 @@
+/*======GENERAL======*/
+#socios {
+    overflow: hidden;
+}
+
+/*=======CORES=======*/
+.bg-gray {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+/*=======HELPERS========*/
+.text-center {
+    text-align:center;
+}
+
+/*======CONTAINERS======*/
+.simple-card {
+    margin: 1%;
+    padding: 2% 5%;
+}
+
+.avatar-card {
+    width: 100%;
+    float: none;
+    border: none;
+}
+
+.avatar {
+    border-radius: 50%;
+}
+
+/*========LARGE DEVICES=========*/
+@media screen and (min-width: 768px) {
+    .avatar-card {
+        width: 31%;
+        float: left;
+    }
+}
